@@ -1,2 +1,2 @@
 #!/bin/bash
-curl telnet://towel.blinkenlights.nl | mpv --no-video -
+telnet towel.blinkenlights.nl
