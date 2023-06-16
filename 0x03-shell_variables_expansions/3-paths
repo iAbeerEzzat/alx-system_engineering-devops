@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l -type d PATH
+wc -l -type d $PATH:/action
